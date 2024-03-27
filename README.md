@@ -32,7 +32,7 @@ URL - /user
 
 URL - user/:id
 
-pass below details in body
+Required all below details in body
 
 1) name: "test4",
 2) email: "test4@gmail.com",

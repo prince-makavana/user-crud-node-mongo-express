@@ -11,10 +11,11 @@
 URL - /user
 
 ### required all below body params
-name: "test4"
-email: "test4@gmail.com"
-password: "test@123"
-phone: "1234567890"
+
+1) name: "test4",
+2) email: "test4@gmail.com",
+3) password: "test@123",
+4) phone: "1234567890"
 
 # Fetch users
 
@@ -32,7 +33,7 @@ URL - /user
 
 URL - user/:id
 
-Required all below details in body
+### Required all below details in body
 
 1) name: "test4",
 2) email: "test4@gmail.com",

@@ -8,7 +8,7 @@
 
 # create user
 
-URL - /user
+URL - /api/user
 
 ### required all below body params
 
@@ -19,7 +19,7 @@ URL - /user
 
 # Fetch users
 
-URL - /user
+URL - /api/user
 
 ### Query params
 
@@ -31,7 +31,7 @@ URL - /user
 
 # Update user
 
-URL - user/:id
+URL - /api/user/:id
 
 ### Required all below details in body
 
@@ -42,6 +42,6 @@ URL - user/:id
 
 # Delete user
 
-URL - user/:id
+URL - /api/user/:id
 
 pass userid in path params for delete user
